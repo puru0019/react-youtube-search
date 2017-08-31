@@ -1,0 +1,20 @@
+body {
+  background: #efefef;
+  font-family: 'Open Sans', sans-serif;
+}
+.container {
+  /*background-color: #fff;*/
+}
+.section-header h4{
+  font-weight: 600;
+}
+table.expensesTable tr td, table.expensesTable tr th{
+  background: #fff;
+  padding: 15px;
+  border: none;
+  border-top: 5px solid #efefef;
+  border-right: 5px solid #efefef;
+}
+table.expensesTable tr th {
+
+}

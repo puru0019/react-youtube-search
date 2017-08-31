@@ -1,0 +1,26 @@
+.marginLarge {
+    margin-top: 80px;
+}
+.mtl {
+  margin-top: 25px;
+}
+.mtm {
+  margin-top: 15px;
+}
+.mts {
+  margin-top: 5px;
+}
+
+.mlm {
+  margin-left:10px;
+}
+
+.ptl {
+  padding-top: 25px;
+}
+.ptm {
+  padding-top: 15px;
+}
+.pts {
+  padding-top: 5px;
+}
