@@ -10,7 +10,8 @@ class Search extends Component {
   hadnleInputChange(e) {
     this.setState({
       term:e.target.value
-    })
+    });
+    this.props.onSearchTermChange(this.state.term);
   }
   render () {
     return (
